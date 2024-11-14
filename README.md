@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Now i`am student of Narxoz
+- I’m currently learning golang, linux, sql and more
+- How to reach me: tg @jaam96
 <!--
 **jaam8/jaam8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
